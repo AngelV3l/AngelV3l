@@ -12,7 +12,7 @@ At work I build computer vision and time-series models for precision agriculture
 
 ### Projects
 - [World Cup 2026 predictor](https://github.com/AngelV3l/Prediccion-Mundial-2026): Dixon-Coles goal model fitted by maximum likelihood, 10,000 Monte Carlo runs of the 48-team bracket, back-tested against the real 2026 results: Brier 0.125 vs 0.140 for a base-rate reference (skill score +0.11).
-- [IMDb sentiment classifier](https://github.com/AngelV3l/Clasificador_reviews_IMDb): TF-IDF and logistic regression pipeline served with FastAPI and Gradio, with tests and Docker. [Live demo](https://huggingface.co/spaces/Angel481516/imdb-sentiment).
+- [IMDb sentiment classifier](https://github.com/AngelV3l/Clasificador_reviews_IMDb): TF-IDF and logistic regression pipeline served with FastAPI and Gradio, with tests and Docker. [Live demo](https://huggingface.co/spaces/AngelV3l/imdb-sentiment).
 
 ### Stack
 Python · PyTorch · YOLO · OpenCV · scikit-learn · XGBoost · statsmodels · MLflow · Docker · FastAPI · SQL · R
