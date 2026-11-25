@@ -1,6 +1,6 @@
 # Ángel Velázquez Bolívar
 
-Data Scientist and Computer Vision Engineer based in Almería, Spain. Mathematician (BSc, University of Almería, 3rd in my year) with an MSc in Applied Statistics (University of Granada).
+Data Scientist and Computer Vision Engineer based in Almería, Spain. Mathematician (BSc, University of Almería) with an MSc in Applied Statistics (University of Granada).
 
 At work I build computer vision and time-series models for precision agriculture (YOLO, PyTorch, OpenCV), from raw data to production. That code is private, so what you see here are side projects.
 
